@@ -1,0 +1,9 @@
+Building Isroil
+
+See doc/readme-qt.rst for instructions on building Isroil QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Isroil.
+
+See doc/build-*.txt for instructions on building isroild,
+the intended-for-services, no-graphical-interface, reference
+implementation of Isroil.
